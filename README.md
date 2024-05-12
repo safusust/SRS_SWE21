@@ -1,61 +1,29 @@
-# SRS_SWE21
+# 1. Introduction
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [General Description](#general-description)
-3. [Specific Requirements](#specific-requirements)
+## 1.1 Purpose of the RD
+## 1.2 Scope of the Product
+## 1.3 Definitions, Acronyms, and Abbreviations
+### Glossary of Terms
+## 1.4 References
+### Sources
+## 1.5 Overview of the Remainder of the Document
 
-## Introduction <a name="introduction"></a>
-This section provides an overview of the project, including its purpose, scope, definitions, and references.
+# 2. General Description
 
-### Purpose of the Requirements Document
-This document outlines the requirements and specifications for [Project Name], offering a comprehensive understanding of the proposed system.
+## 2.1 Product Perspective
+## 2.2 Product Function
+## 2.3 User Characteristics
+## 2.4 General Constants
+## 2.5 Assumptions & Dependencies
 
-### Scope of the Product
-[Project Name] encompasses [brief description of the system's scope and objectives].
+# 3. Specific Requirements
 
-### Definitions, Acronyms, and Abbreviations
-Refer to the glossary section for detailed explanations of terms, acronyms, and abbreviations used throughout this document.
+## 3.1 Functional Requirements
+## 3.2 External Requirements (Non-functional Requirements)
+## 3.3 Performance Requirements
+## 3.4 Design Constraints
+## 3.5 System Quality Assurance
+### Security
+### Responsiveness
+## 3.6 Others
 
-### References
-[List any sources or documents referenced in the creation of this document.]
-
-### Overview of the Remainder of the Document
-The document proceeds with a General Description of the system, followed by Specific Requirements encompassing functional and non-functional aspects, design constraints, system quality assurance measures, and other relevant considerations.
-
-## General Description <a name="general-description"></a>
-
-### Product Perspective
-[Describe the system's relationship to other systems or components.]
-
-### Product Function
-[Outline the primary functions and features of the system.]
-
-### User Characteristics
-[Describe the intended users of the system, including their roles and responsibilities.]
-
-### General Constants
-[Specify any constants or variables that remain consistent throughout the system.]
-
-### Assumptions & Dependencies
-[List any assumptions made during the system design and dependencies on external factors or systems.]
-
-## Specific Requirements <a name="specific-requirements"></a>
-
-### Functional Requirements
-[Detail the specific functions and capabilities required of the system.]
-
-### External Requirements (Non-functional Requirements)
-[Specify non-functional requirements such as performance, reliability, usability, etc.]
-
-### Performance Requirements
-[Define performance metrics and expectations for the system.]
-
-### Design Constraints
-[Identify any constraints that influence the design and implementation of the system.]
-
-### System Quality Assurance
-[Address security measures, responsiveness, and other quality assurance aspects.]
-
-### Others
-[Include any additional requirements or considerations not covered in previous sections.]
